@@ -132,20 +132,20 @@ header nav li a:hover{
     background-color: #CE1212;
 }
 
-#media ul{
+#social-media ul{
     position: absolute;
     display: flex;
     right: 100px;
     bottom: 30px;
 }
 
-#media ul li{
+#social-media ul li{
     list-style: none;
-    font-size: 20px;
+    font-size: 17px;
     margin-left: 50px;
 }
 
-#media ul i{
+#social-media ul i{
     color: #EEEBDD;
     text-decoration: none;
     background-color: #222;
@@ -154,6 +154,6 @@ header nav li a:hover{
     transition: 0.3s ease-in-out;
 }
 
-#media ul i:hover{
+#social-media ul i:hover{
     color: #CE1212;
 }
